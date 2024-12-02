@@ -50,3 +50,7 @@ Note: You need to have NodeJS installed.
 ```bash
 generatemeta
 ```
+
+## Author
+
+- Github [@kairodev](https://www.github.com/kairodev)
