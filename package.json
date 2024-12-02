@@ -1,0 +1,14 @@
+{
+    "name": "meta-generator",
+    "version": "1.0.0",
+    "description": "Automatic meta file generator for resources in MTA:SA, use it to optimize your time during development",
+    "main": "lib/index.js",
+    "bin": {
+      "generatemeta": "./bin/command.js"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Kairo Cardozo",
+    "license": "MIT"
+  }
